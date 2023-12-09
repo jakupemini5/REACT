@@ -182,6 +182,7 @@ ol {
   width: 8rem;
   height: 8rem;
   border: none;
+  border-radius: 15px;
   background: #aca788;
   color: #3f3b00;
   font-size: 5rem;
@@ -250,6 +251,7 @@ ol {
 
 #log li {
   border-radius: 4px;
+  background-color: #ffedb8;
   animation: slide-in-from-left 1s cubic-bezier(0.075, 0.82, 0.165, 1) forwards;
   margin: 0.75rem;
 }
